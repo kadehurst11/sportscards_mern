@@ -8,7 +8,8 @@
 - Used bootstrap framework for user interface (web page) layout and design using React
 - Provided a functionality for user signup
 - Provided authentication service or a functionality for users to login
-- Deployed project to Heroku via ```https://unruffled-curie-b5bcaf.netlify.app ```
+- Deployed front end project to netlify link: ```https://unruffled-curie-b5bcaf.netlify.app ```
+- Deployed backend project to heroku link: ```https://mongoldb-db.herokuapp.com/posts```
 
 ## Screenshots of Working Functionality 
 
