@@ -2,16 +2,12 @@ import React from 'react';
 import { Container } from '@material-ui/core';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
-import useStyles from './styles';
-
 import Navbar from './components/Navbar/Navbar';
 import Home from './components/Home/home';
 import Auth from './components/Auth/Auth';
 
 const App = () => {
-  const classes = useStyles();
-
-  return (
+  return(
     <BrowserRouter>
       <Container maxWidth="lg">
         <Navbar/>
