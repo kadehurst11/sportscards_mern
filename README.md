@@ -1,6 +1,6 @@
-# Social Media application for Soccer fans to connect with eachother
+# Social Media application for Sports Cards fans to connect with eachother
 
-## Created using MERN stack application as well as using Redux to manage state information. I am currently still working on this project and will be used to develop a more sophisticated application. 
+## Created using MERN stack application as well as using Redux to manage state information. 
 
 ` Deliverables ` 
 
@@ -15,7 +15,7 @@
 
 ####  User Creation
 
-![Working  Creation](/screenshots/createuser.png)
+![Working  Creation](/screenshots/creatuser.png)
 
 #### User creating a post 
 
