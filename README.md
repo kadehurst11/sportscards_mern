@@ -21,7 +21,7 @@
 
 ![Working NewPost](/screenshots/createnewpost.png)
 
-#### screenshot of post 
+#### screenshot of post Also can see that the user who is logged in who has a post he can edit and delete his own posts but not others
 
 ![Working Newpost Creation](/screenshots/newpost.png)
 
@@ -29,7 +29,7 @@
 
 ![Working Like](/screenshots/otheruserpostnlike.png)
 
-#### Post liked by user who didnt create post Also can see that the user who is logged in who has a post he can edit and delete his own posts but not others
+#### Post liked by user who didnt create post 
 
 ![Working Like](/screenshots/otheruserpostlike.png)
 
