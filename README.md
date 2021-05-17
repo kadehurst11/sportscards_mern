@@ -5,7 +5,7 @@
 ` Deliverables ` 
 
 - Used MongoDB as a backend database to store data
-- Used bootstrap framework for user interface (web page) layout and design using React
+- Used react for user interface (web page)
 - Provided a functionality for user signup
 - Provided authentication service or a functionality for users to login
 - Deployed front end project to netlify link: ```https://unruffled-curie-b5bcaf.netlify.app ```
