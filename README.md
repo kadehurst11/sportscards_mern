@@ -10,6 +10,7 @@
 - Provided authentication service or a functionality for users to login
 - Deployed front end project to netlify link: ```https://unruffled-curie-b5bcaf.netlify.app ```
 - Deployed backend project to heroku link: ```https://mongoldb-db.herokuapp.com/posts```
+- Screenshots were captured before deploying and changing background
 
 ## Screenshots of Working Functionality 
 
